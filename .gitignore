@@ -1,0 +1,37 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+JwtApiSimple/[Dd]ebug/
+JwtApiSimple/[Dd]ebugPublic/
+JwtApiSimple/[Rr]elease/
+JwtApiSimple/[Rr]eleases/
+JwtApiSimple/x64/
+JwtApiSimple/x86/
+JwtApiSimple/build/
+JwtApiSimple/bld/
+JwtApiSimple/[Bb]in/
+JwtApiSimple/[Oo]bj/
+JwtApiSimple/[Oo]ut/
+JwtApiSimple/msbuild.log
+JwtApiSimple/msbuild.err
+JwtApiSimple/msbuild.wrn
+
+# Visual Studio 2015
+.vs/
